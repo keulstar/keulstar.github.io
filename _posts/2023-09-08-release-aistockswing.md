@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: https://drive.google.com/file/d/1HxEy9k9Zesu1WpWTWdJqzV4tAWxyir_D/view?usp=sharing
+  path: https://drive.google.com/uc?id=1HxEy9k9Zesu1WpWTWdJqzV4tAWxyir_D
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
