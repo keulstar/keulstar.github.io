@@ -86,7 +86,7 @@ Moon
 
 ## Links
 
-<http://127.0.0.1:4000>
+<https://play.google.com/store/apps/details?id=com.keulstar.aistockswingapp>
 
 ## Footnote
 
