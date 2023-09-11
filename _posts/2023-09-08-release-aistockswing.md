@@ -9,7 +9,7 @@ math: true
 mermaid: true
 image:
   path: https://drive.google.com/uc?id=1HxEy9k9Zesu1WpWTWdJqzV4tAWxyir_D
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: AiStockSwing 앱 데모 화면
 ---
 
 ## 앱 설명
