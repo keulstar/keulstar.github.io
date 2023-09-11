@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+  # KEULSTAR SOFTWARE COMPANY BLOG
 
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
