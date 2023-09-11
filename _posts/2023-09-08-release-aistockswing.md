@@ -8,8 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: https://drive.google.com/drive/folders/111lV0fNcVKfVZVgCidDudS-vhQjL-ekA
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  path: https://drive.google.com/file/d/1HxEy9k9Zesu1WpWTWdJqzV4tAWxyir_D/view?usp=sharing
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
