@@ -1,5 +1,5 @@
 ---
-title: [앱소개] AI Stock SWING 주식 오늘은 무얼 살까?
+title: (앱소개) AI Stock SWING 주식 오늘은 무얼 살까?
 author: keulstar.ko
 date: 2023-09-08 11:33:00 +0800
 categories: [Apps]
