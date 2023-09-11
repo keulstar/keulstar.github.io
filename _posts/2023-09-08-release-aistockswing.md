@@ -12,7 +12,7 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-## Paragraph
+## 앱 설명
 
 하루 주식은 빅데이터기반 인공지능 스윙 종목 추천
 - 매일 17시에 종목을 추천 합니다.
