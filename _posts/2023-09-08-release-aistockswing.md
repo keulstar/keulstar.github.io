@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: https://drive.google.com/file/d/1HxEy9k9Zesu1WpWTWdJqzV4tAWxyir_D/view?usp=drive_link
+  path: https://drive.google.com/drive/folders/111lV0fNcVKfVZVgCidDudS-vhQjL-ekA
   alt: AiStock Demo
 ---
 
