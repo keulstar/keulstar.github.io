@@ -27,6 +27,6 @@ image:
 
 ## 앱 다운로드
 
-- [앱 다운로드](https://play.google.com/store/apps/details?id=com.keulstar.aistockswingapp/)
+- [앱 다운로드](https://play.google.com/store/apps/details?id=com.keulstar.aistockswingapp)https://play.google.com/store/apps/details?id=com.keulstar.aistockswingapp
 
 ![Image](https://drive.google.com/uc?id=1O_NxD6bKIRbYKIncPMMNFQHAhITuWGMz)
